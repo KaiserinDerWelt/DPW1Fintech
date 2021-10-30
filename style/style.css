@@ -126,3 +126,41 @@ footer{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700; 
 }
+
+.registerPage{
+    display: flex;
+    position: relative;
+     justify-content: space-between;
+    width: auto;
+    height: auto;
+    
+}
+
+.registerDescriptionContainer{
+    width: 500px;
+    height: auto;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.registerForm{
+    width: 700px;
+    height: 700px;     
+}
+.registerPicture{
+    padding-bottom: 30px;
+}
+.formstyle{
+    background-color: salmon;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 680px;
+}
+
+.buttonRegister{
+    margin-bottom: 30px;
+}
+
+.inputRegister{
+    width: 100%;
+}
