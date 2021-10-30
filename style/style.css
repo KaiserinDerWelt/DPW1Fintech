@@ -1,6 +1,7 @@
 body{
     background-color: cornsilk;
 }
+/*Barra de navegacion*/
   .myNavBarContainer{
     background-color: darksalmon;
     width: auto;
@@ -109,7 +110,7 @@ body{
     height: 120px;
     padding-top: 20px;
 }
-
+/*Footer*/
 footer{
     width: auto;
     height: 60px;
@@ -130,12 +131,12 @@ footer{
 .registerPage{
     display: flex;
     position: relative;
-     justify-content: space-between;
+    justify-content: space-between;
     width: auto;
     height: auto;
     
 }
-
+/*Formulario*/
 .registerDescriptionContainer{
     width: 500px;
     height: auto;
@@ -157,10 +158,10 @@ footer{
     height: 680px;
 }
 
-.buttonRegister{
-    margin-bottom: 30px;
-}
-
 .inputRegister{
     width: 100%;
+}
+/*Boton de registro*/
+.buttonRegister{
+  margin-bottom: 30px;
 }

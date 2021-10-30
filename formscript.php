@@ -9,3 +9,8 @@ $mailheader = "De: $email \r\n";
 mail($recipient, $subject, $nombreF,$rfcF,$telefonoF,$correoF $mailheader) or die("Error!");
 echo "Gracias profe, me gusto esta tarea";
 ?>
+
+<!--Mariana de San Juan Licona Aguilar.
+   ES162006875 . 
+   Desjmariana@nube.unadmexico.mx
+-->
